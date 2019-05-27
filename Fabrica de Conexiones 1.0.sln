@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.452
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fabrica de Conexiones 1.0", "Fabrica de Conexiones 1.0\Fabrica de Conexiones 1.0.csproj", "{ABBA562E-BA2D-4162-BCB6-4A089429E262}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ABBA562E-BA2D-4162-BCB6-4A089429E262}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABBA562E-BA2D-4162-BCB6-4A089429E262}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABBA562E-BA2D-4162-BCB6-4A089429E262}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABBA562E-BA2D-4162-BCB6-4A089429E262}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AC77A21A-FBBB-41EF-AD2C-68CC5C6E69CE}
+	EndGlobalSection
+EndGlobal
